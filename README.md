@@ -2,9 +2,10 @@
 
 - - -
 
-a repository/depot/library of all the short stories i've ever written.
-feel free to publish this to your blog, website, or whatever. just make sure to give credit where credit is due.
+## What's the repo for?
+A repository/depot/library of all the short stories i've ever written.
+Feel free to publish any of these stories to your blog, website, or wherever. Just make sure to give credit where credit is due.
 
-quality not guaranteed!
+Quality not guaranteed!
 
 X.
