@@ -5,7 +5,7 @@
 ### What's the repo for?
 
 A repository/depot/library of all the short stories i've ever written. <br>
-Feel free to publish any of these stories to your blog, website, or wherever. Just make sure to give credit where credit is due.
+Feel free to publish any of these stories to your blog, website, or wherever. Just be sure to give credit where credit is due.
 
 Also if anyone does choose to rip my work off, word for word, and use it for their own benefit, this repo also proves my authorship of these stories.
 
