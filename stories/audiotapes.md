@@ -1,4 +1,4 @@
-Audiotapes from Ceres (now transcribed!!)
+Audiotapes from the Mercury Mission (now transcribed!!)
 
 ...
 
