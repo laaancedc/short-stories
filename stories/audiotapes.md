@@ -538,7 +538,7 @@ Audiotapes from the Mercury Mission (now transcribed!!)
 
 &emsp;*coughs*
 
-&emsp;We're a month away from Mars now.
+&emsp;We're two months away from Mars now.
 
 &emsp;...
 
@@ -588,7 +588,7 @@ Audiotapes from the Mercury Mission (now transcribed!!)
 
 &emsp;Potatoes are no more...
 
-&emsp;We were nearing Mars. Three more weeks.
+&emsp;We were nearing Mars. Two more weeks.
 
 &emsp;...
 
