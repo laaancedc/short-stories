@@ -1,4 +1,4 @@
-Audiotapes from Ceres (now transcribed!!)
+Audiotapes from Ceres
 
 ...
 
